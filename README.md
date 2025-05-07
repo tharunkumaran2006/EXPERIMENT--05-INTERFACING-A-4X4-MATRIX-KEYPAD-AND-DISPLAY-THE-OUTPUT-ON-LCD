@@ -452,7 +452,8 @@ void assert_failed(uint8_t *file, uint32_t line)
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![pmcex5](https://github.com/user-attachments/assets/6997fca4-60cb-4106-9bd0-4796f2c362a2)
+![pmcex5b](https://github.com/user-attachments/assets/bd2ff924-2b9c-4b70-83d9-6ec9a973d5c3)
+
 
  
 ## Result :
